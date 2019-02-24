@@ -58,7 +58,7 @@
     "recompose": "^0.30.0",
     "styled-components": "^4.1.2",
     "styled-system": "^3.1.11",
-    "rambda": "^2.3.1"
+    "ramda": "^0.26.1"
   },
   "devDependencies": {
     "@babel/core": "^7.0.0",
